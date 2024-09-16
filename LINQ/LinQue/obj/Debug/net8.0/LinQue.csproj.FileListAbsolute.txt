@@ -1,0 +1,14 @@
+C:\Users\TNyok\OneDrive\Desktop\DOTNET\LINQ\LinQue\bin\Debug\net8.0\LinQue.exe
+C:\Users\TNyok\OneDrive\Desktop\DOTNET\LINQ\LinQue\bin\Debug\net8.0\LinQue.deps.json
+C:\Users\TNyok\OneDrive\Desktop\DOTNET\LINQ\LinQue\bin\Debug\net8.0\LinQue.runtimeconfig.json
+C:\Users\TNyok\OneDrive\Desktop\DOTNET\LINQ\LinQue\bin\Debug\net8.0\LinQue.dll
+C:\Users\TNyok\OneDrive\Desktop\DOTNET\LINQ\LinQue\bin\Debug\net8.0\LinQue.pdb
+C:\Users\TNyok\OneDrive\Desktop\DOTNET\LINQ\LinQue\obj\Debug\net8.0\LinQue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TNyok\OneDrive\Desktop\DOTNET\LINQ\LinQue\obj\Debug\net8.0\LinQue.AssemblyInfoInputs.cache
+C:\Users\TNyok\OneDrive\Desktop\DOTNET\LINQ\LinQue\obj\Debug\net8.0\LinQue.AssemblyInfo.cs
+C:\Users\TNyok\OneDrive\Desktop\DOTNET\LINQ\LinQue\obj\Debug\net8.0\LinQue.csproj.CoreCompileInputs.cache
+C:\Users\TNyok\OneDrive\Desktop\DOTNET\LINQ\LinQue\obj\Debug\net8.0\LinQue.dll
+C:\Users\TNyok\OneDrive\Desktop\DOTNET\LINQ\LinQue\obj\Debug\net8.0\refint\LinQue.dll
+C:\Users\TNyok\OneDrive\Desktop\DOTNET\LINQ\LinQue\obj\Debug\net8.0\LinQue.pdb
+C:\Users\TNyok\OneDrive\Desktop\DOTNET\LINQ\LinQue\obj\Debug\net8.0\LinQue.genruntimeconfig.cache
+C:\Users\TNyok\OneDrive\Desktop\DOTNET\LINQ\LinQue\obj\Debug\net8.0\ref\LinQue.dll

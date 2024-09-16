@@ -1,0 +1,14 @@
+C:\Users\TNyok\OneDrive\Desktop\DOTNET\DataStructures\Structures\bin\Debug\net8.0\Structures.exe
+C:\Users\TNyok\OneDrive\Desktop\DOTNET\DataStructures\Structures\bin\Debug\net8.0\Structures.deps.json
+C:\Users\TNyok\OneDrive\Desktop\DOTNET\DataStructures\Structures\bin\Debug\net8.0\Structures.runtimeconfig.json
+C:\Users\TNyok\OneDrive\Desktop\DOTNET\DataStructures\Structures\bin\Debug\net8.0\Structures.dll
+C:\Users\TNyok\OneDrive\Desktop\DOTNET\DataStructures\Structures\bin\Debug\net8.0\Structures.pdb
+C:\Users\TNyok\OneDrive\Desktop\DOTNET\DataStructures\Structures\obj\Debug\net8.0\Structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TNyok\OneDrive\Desktop\DOTNET\DataStructures\Structures\obj\Debug\net8.0\Structures.AssemblyInfoInputs.cache
+C:\Users\TNyok\OneDrive\Desktop\DOTNET\DataStructures\Structures\obj\Debug\net8.0\Structures.AssemblyInfo.cs
+C:\Users\TNyok\OneDrive\Desktop\DOTNET\DataStructures\Structures\obj\Debug\net8.0\Structures.csproj.CoreCompileInputs.cache
+C:\Users\TNyok\OneDrive\Desktop\DOTNET\DataStructures\Structures\obj\Debug\net8.0\Structures.dll
+C:\Users\TNyok\OneDrive\Desktop\DOTNET\DataStructures\Structures\obj\Debug\net8.0\refint\Structures.dll
+C:\Users\TNyok\OneDrive\Desktop\DOTNET\DataStructures\Structures\obj\Debug\net8.0\Structures.pdb
+C:\Users\TNyok\OneDrive\Desktop\DOTNET\DataStructures\Structures\obj\Debug\net8.0\Structures.genruntimeconfig.cache
+C:\Users\TNyok\OneDrive\Desktop\DOTNET\DataStructures\Structures\obj\Debug\net8.0\ref\Structures.dll
